@@ -60,8 +60,8 @@ Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  [round(value, 2)]
 
 Example 3:
 
-input: calculate_position(A=10, f=1, t=1/4, ϕ=0;  output: x=10.0    [round(value, 1)]
+input: calculate_position(A=10, f=1, t=1/4, ϕ=0);  output: x=10.0    [round(value, 1)]
 
-input:  A=5, f=1, t=3/4, ϕ=0;  output: x=-5.0
+input:  A=5, f=1, t=3/4, ϕ=0);  output: x=-5.0
 
-input:  A=5, f=1, t=1, ϕ=0;  output: x=0
+input:  A=5, f=1, t=1, ϕ=0);  output: x=0.0
