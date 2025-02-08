@@ -58,9 +58,8 @@ Example 1: polar_to_cartesian(5, 0.93)=(3,4)
 
 Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  
 
-Example 3:
+Example 3: calculate_position(10,1,1/4,0)=10
 
-input: A=10, f=1, t=1/4, ϕ=0;  output: x=10.0   
 
 Hint: 
 1. just programm the functions, do nothing extra.
