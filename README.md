@@ -54,7 +54,7 @@ t is the time in seconds.
   
    ![image](https://github.com/user-attachments/assets/2ad4c530-1651-419a-803b-1e736330e994)
 
-Example 1: polar_to_cartesian(5, 0.93)=(3,4)      
+Example 1: polar_to_cartesian(5, math.pi/3)=(2.5, 4.33)     
 
 Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  
 
