@@ -11,7 +11,7 @@ def cartesian_to_polar(x,y):
     pass  # Replace with your code
 
 # Function 3 (40): Calculate the position of pendulum for (A, f, ϕ, t).
-# This function should take (A, f, ϕ, t) as input and return the position value x.
-def calculate_position(A, f, ϕ, t):
+# This function should take (A, f, ϕ, t) as input and return the position value x=A*sin(2*π*f*t+Φ) .
+def calculate_position(A, f, Φ, t):
     # TODO: Implement this function
     pass  # Replace with your code
