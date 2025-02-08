@@ -50,7 +50,7 @@ t is the time in seconds.
 
 2. Convert Cartesian coordinates (x,y) to polar coordinates (r,θ) - write a Python function cartesian_to_polar(x,y).
 
-3. Calculate the position of pendulum :  calculate_position(A, f, ϕ, t)
+3. Calculate the position of pendulum :  x=calculate_position(A, f, ϕ, t)
   
    ![image](https://github.com/user-attachments/assets/2ad4c530-1651-419a-803b-1e736330e994)
 
