@@ -54,14 +54,14 @@ t is the time in seconds.
   
    ![image](https://github.com/user-attachments/assets/2ad4c530-1651-419a-803b-1e736330e994)
 
-Example 1: polar_to_cartesian(5, 0.93)=(3,4)      [round(value, 2)]
+Example 1: polar_to_cartesian(5, 0.93)=(3,4)      
 
-Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  [round(value, 2)]
+Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  
 
 Example 3:
 
-input: A=10, f=1, t=1/4, ϕ=0;  output: x=10.0    [round(value, 1)]
+input: A=10, f=1, t=1/4, ϕ=0;  output: x=10.0   
 
-input:  A=5, f=1, t=3/4, ϕ=0;  output: x=-5.0
-
-input:  A=5, f=1, t=1, ϕ=0;  output: x=0.0
+Hint: 
+1. just programm the functions, do nothing extra.
+2. Use math.pi instead of pi=3.14 and use math.sin() for sin function.  
