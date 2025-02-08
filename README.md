@@ -56,7 +56,7 @@ t is the time in seconds.
 
 Example 1: polar_to_cartesian(5, math.pi/3)=(2.5, 4.33)     
 
-Example 2: cartesian_to_polar(1, 1)=(1.41, 0.79)  
+Example 2: cartesian_to_polar(1, 1)=(1.414, math.pi/4)  
 
 Example 3: calculate_position(10,1,1/4,0)=10
 
