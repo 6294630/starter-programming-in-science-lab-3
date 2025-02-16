@@ -1,8 +1,11 @@
 # Function 1 (30): Convert the given polar coordinates (r,θ) to Cartesian coordinates (x,y). 
 # This function should take the polar coordinates (r,θ) and return Cartesian coordinates (x,y), where θ=theta.
+import math
 def polar_to_cartesian(r,θ):
-    # TODO: Implement this function
-    pass  # Replace with your code
+    x = r * math.cos(math.radians(theta))
+    y = r * math.sin(math.radians(theta))
+    
+    return (round(x, 5), round(y, 5))
 
 # Function 2(30): Convert Cartesian coordinates (x,y) to polar coordinates (r,θ) , where θ=theta.
 # This function should take the Cartesian coordinates (x,y) as input and return the polar coordinates (r,θ).
